@@ -22,7 +22,7 @@ Lorem ipsum
 Building
 
 | Course List                                                  | Done? | Files        |
-| ------------------------------------------------------------ | ----- | ------------ |
+| :------------------------------------------------------------ | :-----: | :------------: |
 | [Curso Profesional de Git y Github](https://platzi.com/cursos/git-github/) | X     | Go to folder |
 | [Curso de Introducción a la Terminal y Línea de Comandos](https://platzi.com/cursos/terminal/) | X     | Go to folder |
 | [Curso de Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/) | X     | Go to folder |
@@ -47,13 +47,13 @@ Here is a link of project
 
 ### 3. Advanced Courses
 
-| Course List                                                  | Done? | Files        |
-| ------------------------------------------------------------ | ----- | ------------ |
+| Course List                                                  | Done? |    Files     |
+| :----------------------------------------------------------- | :---: | :----------: |
 | [Curso de Fundamentos de Álgebra Lineal con Python](https://platzi.com/cursos/algebra-lineal/) |       | Go to folder |
 | [Curso de Introducción a Machine Learning](https://platzi.com/cursos/machine-learning/) |       | Go to folder |
 | [Curso de Álgebra Lineal Aplicada para Machine Learning](https://platzi.com/cursos/algebra-ml/) |       | Go to folder |
 | [Curso de Redes Neuronales en Keras y SciKit Learn](https://platzi.com/cursos/keras-neural-networks/) |       | Go to folder |
-| [Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK](https://platzi.com/cursos/python-lenguaje-natural/) |       | Go to folder |
+| [Curso de Fundamentos de Procesamiento de Lenguaje Natural](https://platzi.com/cursos/python-lenguaje-natural/) |       | Go to folder |
 
 ### 4. Additional Technical Courses
 
