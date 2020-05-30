@@ -36,7 +36,7 @@ Building
 ### 2. Intermediate Courses
 
 | Course List                                                  | Done? | Files        |
-| ------------------------------------------------------------ | ----- | ------------ |
+| :------------------------------------------------------------ | :-----: | :------------: |
 | [Fundamentos de R](https://platzi.com/cursos/fundamentos-r/) |       | Go to folder |
 | [Curso de Fundamentos de Estadística y Análisis de Datos con Python](https://platzi.com/cursos/estadistica-python/) |       | Go to folder |
 | [Curso Práctico de Regresión Lineal con Python](https://platzi.com/cursos/regresion-python/) |       | Go to folder |
@@ -48,7 +48,7 @@ Here is a link of project
 ### 3. Advanced Courses
 
 | Course List                                                  | Done? |    Files     |
-| :----------------------------------------------------------- | :---: | :----------: |
+| :------------------------------------------------------------ | :-----: | :------------: |
 | [Curso de Fundamentos de Álgebra Lineal con Python](https://platzi.com/cursos/algebra-lineal/) |       | Go to folder |
 | [Curso de Introducción a Machine Learning](https://platzi.com/cursos/machine-learning/) |       | Go to folder |
 | [Curso de Álgebra Lineal Aplicada para Machine Learning](https://platzi.com/cursos/algebra-ml/) |       | Go to folder |
@@ -58,7 +58,7 @@ Here is a link of project
 ### 4. Additional Technical Courses
 
 | Course List                                                  | Done? | Files        |
-| ------------------------------------------------------------ | ----- | ------------ |
+| :------------------------------------------------------------ | :-----: | :------------: |
 | [Curso de Fundamentos de Matemáticas](https://platzi.com/cursos/fundamentos-matematicas/) | X     | Go to folder |
 | [Curso de Álgebra](https://platzi.com/cursos/algebra/)       | X     | Go to folder |
 | [Curso de Pensamiento Lógico](https://platzi.com/cursos/pensamiento-logico/) | X     | Go to folder |
@@ -72,7 +72,7 @@ Here is a link of project
 ### 5. Personal Growth
 
 | Course List                                                  | Done? | Files        |
-| ------------------------------------------------------------ | ----- | ------------ |
+| :------------------------------------------------------------ | :-----: | :------------: |
 | [Curso para Desbloquear tu Creatividad](https://platzi.com/cursos/desbloquea-creatividad/) | X     | Go to folder |
 | [Curso de Estrategias para Aprender en Línea Efectivamente](https://platzi.com/cursos/aprender/) | X     | Go to folder |
 | [Curso de Gestión Efectiva del Tiempo](https://platzi.com/cursos/gestion-tiempo/) | X     | Go to folder |
