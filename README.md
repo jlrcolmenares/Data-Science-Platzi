@@ -21,61 +21,61 @@ Lorem ipsum
 
 Building
 
-| Course List                                                  | Done? | Files        |
-| :------------------------------------------------------------ | :-----: | :------------: |
-| [Curso Profesional de Git y Github](https://platzi.com/cursos/git-github/) | X     | Go to folder |
-| [Curso de Introducción a la Terminal y Línea de Comandos](https://platzi.com/cursos/terminal/) | X     | Go to folder |
-| [Curso de Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/) | X     | Go to folder |
-| [Curso de POO y Algoritmos con Python](https://platzi.com/cursos/poo-python/) | X     | Go to folder |
-| [Curso de Programación Dinámica y Estocástica con Python](https://platzi.com/cursos/programacion-estocastica/) | X     | Go to folder |
-| [Curso de Introducción al Pensamiento Probabilístico](https://platzi.com/cursos/probabilistica/) | X     | Go to folder |
-| [Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/) | X     | Go to folder |
-| [Curso de SQL y MySQL](https://platzi.com/cursos/sql-mysql/) |       | Go to folder |
-| [Curso de SQL en Azure](https://platzi.com/cursos/sql-azure/) |       | Go to folder |
+| Course List                                                                                                    | Done? |    Files    |
+| :------------------------------------------------------------------------------------------------------------- |:-----:|:-----------:|
+| [Profesional de Git y Github](https://platzi.com/cursos/git-github/)                                           | X     | See folder  |
+| [Introducción a la Terminal y Línea de Comandos](https://platzi.com/cursos/terminal/)                          | X     | See folder  |
+| [Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/)                   | X     | See folder  |
+| [POO y Algoritmos con Python](https://platzi.com/cursos/poo-python/)                                           | X     | See folder  |
+| [Programación Dinámica y Estocástica con Python](https://platzi.com/cursos/programacion-estocastica/)          | X     | See folder  |
+| [Introducción al Pensamiento Probabilístico](https://platzi.com/cursos/probabilistica/)                        | X     | See folder  |
+| [Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/)                                                 | X     | See folder  |
+| [SQL y MySQL](https://platzi.com/cursos/sql-mysql/)                                                            | X     | See folder  |
+| [SQL en Azure](https://platzi.com/cursos/sql-azure/)                                                           | X     | See folder  |
 
 ### 2. Intermediate Courses
 
-| Course List                                                  | Done? | Files        |
-| :------------------------------------------------------------ | :-----: | :------------: |
-| [Fundamentos de R](https://platzi.com/cursos/fundamentos-r/) |       | Go to folder |
-| [Curso de Fundamentos de Estadística y Análisis de Datos con Python](https://platzi.com/cursos/estadistica-python/) |       | Go to folder |
-| [Curso Práctico de Regresión Lineal con Python](https://platzi.com/cursos/regresion-python/) |       | Go to folder |
-| [Curso de PostgreSQL Aplicado a Ciencia de Datos](https://platzi.com/cursos/postgresql-datos/) |       | Go to folder |
-| [Curso de Manipulación y Análisis de Datos con Pandas y Python](https://platzi.com/cursos/pandas/) |       | Go to folder |
+| Course List                                                                                                    | Done? |    Files    |
+| :------------------------------------------------------------------------------------------------------------- |:-----:|:-----------:|
+| [Fundamentos de R](https://platzi.com/cursos/fundamentos-r/)                                                   | -     | See folder  |
+| [Fundamentos de Estadística y Análisis de Datos con Python](https://platzi.com/cursos/estadistica-python/)     | -     | See folder  |
+| [Práctico de Regresión Lineal con Python](https://platzi.com/cursos/regresion-python/)                         | -     | See folder  |
+| [PostgreSQL Aplicado a Ciencia de Datos](https://platzi.com/cursos/postgresql-datos/)                          | -     | See folder  |
+| [Manipulación y Análisis de Datos con Pandas y Python](https://platzi.com/cursos/pandas/)                      | -     | See folder  |
 
 Here is a link of project
 
 ### 3. Advanced Courses
 
-| Course List                                                  | Done? |    Files     |
-| :------------------------------------------------------------ | :-----: | :------------: |
-| [Curso de Fundamentos de Álgebra Lineal con Python](https://platzi.com/cursos/algebra-lineal/) |       | Go to folder |
-| [Curso de Introducción a Machine Learning](https://platzi.com/cursos/machine-learning/) |       | Go to folder |
-| [Curso de Álgebra Lineal Aplicada para Machine Learning](https://platzi.com/cursos/algebra-ml/) |       | Go to folder |
-| [Curso de Redes Neuronales en Keras y SciKit Learn](https://platzi.com/cursos/keras-neural-networks/) |       | Go to folder |
-| [Curso de Fundamentos de Procesamiento de Lenguaje Natural](https://platzi.com/cursos/python-lenguaje-natural/) |       | Go to folder |
+| Course List                                                                                                    | Done? |    Files    |
+| :------------------------------------------------------------------------------------------------------------- |:-----:|:-----------:|
+| [Fundamentos de Álgebra Lineal con Python](https://platzi.com/cursos/algebra-lineal/)                          | -     | See folder  |
+| [Introducción a Machine Learning](https://platzi.com/cursos/machine-learning/)                                 | -     | See folder  |
+| [Álgebra Lineal Aplicada para Machine Learning](https://platzi.com/cursos/algebra-ml/)                         | -     | See folder  |
+| [Redes Neuronales en Keras y SciKit Learn](https://platzi.com/cursos/keras-neural-networks/)                   | -     | See folder  |
+| [Fundamentos de Procesamiento de Lenguaje Natural](https://platzi.com/cursos/python-lenguaje-natural/)         | -     | See folder  |
 
 ### 4. Additional Technical Courses
 
-| Course List                                                  | Done? | Files        |
-| :------------------------------------------------------------ | :-----: | :------------: |
-| [Curso de Fundamentos de Matemáticas](https://platzi.com/cursos/fundamentos-matematicas/) | X     | Go to folder |
-| [Curso de Álgebra](https://platzi.com/cursos/algebra/)       | X     | Go to folder |
-| [Curso de Pensamiento Lógico](https://platzi.com/cursos/pensamiento-logico/) | X     | Go to folder |
-| [Curso de Expresiones Regulares](https://platzi.com/cursos/expresiones-regulares/) | X     | Go to folder |
-| [Curso de Probabilidad y Estadística](https://platzi.com/cursos/probabilidad-estadistica/) | X     | Go to folder |
-| [Curso Profesional de Ciencia de Datos](https://platzi.com/cursos/data/) | X     | Go to folder |
-| [Curso de PostgreSQL](https://platzi.com/cursos/postgresql/) | X     | Go to folder |
-| [Curso de Google Data Studio](https://platzi.com/cursos/data-studio/) | X     | Go to folder |
-| [Curso de Introducción a Business Intelligence con Power BI](https://platzi.com/cursos/business-intelligence/) | X     | Go to folder |
+| Course List                                                                                                    | Done? |    Files    |
+| :------------------------------------------------------------------------------------------------------------- |:-----:|:-----------:|
+| [Fundamentos de Matemáticas](https://platzi.com/cursos/fundamentos-matematicas/)                               | X     | See folder  |
+| [Álgebra](https://platzi.com/cursos/algebra/)                                                                  | X     | See folder  |
+| [Pensamiento Lógico](https://platzi.com/cursos/pensamiento-logico/)                                            | X     | See folder  |
+| [Expresiones Regulares](https://platzi.com/cursos/expresiones-regulares/)                                      | X     | See folder  |
+| [Probabilidad y Estadística](https://platzi.com/cursos/probabilidad-estadistica/)                              | X     | See folder  |
+| [Profesional de Ciencia de Datos](https://platzi.com/cursos/data/)                                             | X     | See folder  |
+| [PostgreSQL](https://platzi.com/cursos/postgresql/)                                                            | X     | See folder  |
+| [Google Data Studio](https://platzi.com/cursos/data-studio/)                                                   | X     | See folder  |
+| [Introducción a Business Intelligence con Power BI](https://platzi.com/cursos/business-intelligence/)          | X     | See folder  |
 
 ### 5. Personal Growth
 
-| Course List                                                  | Done? | Files        |
-| :------------------------------------------------------------ | :-----: | :------------: |
-| [Curso para Desbloquear tu Creatividad](https://platzi.com/cursos/desbloquea-creatividad/) | X     | Go to folder |
-| [Curso de Estrategias para Aprender en Línea Efectivamente](https://platzi.com/cursos/aprender/) | X     | Go to folder |
-| [Curso de Gestión Efectiva del Tiempo](https://platzi.com/cursos/gestion-tiempo/) | X     | Go to folder |
-| [Curso de Técnicas de Formación Efectiva](https://platzi.com/cursos/formacion/) | X     | Go to folder |
-| [Curso de Creación de Portafolio y CV](https://platzi.com/cursos/portafolios/) | X     | Go to folder |
-| [Meditaciones para Seguir Aprendiendo](https://platzi.com/cursos/meditacion/) | X     | Go to folder |
+| Course List                                                                                                    | Done? |    Files    |
+| :------------------------------------------------------------------------------------------------------------- |:-----:|:-----------:|
+| [Desbloquear tu Creatividad](https://platzi.com/cursos/desbloquea-creatividad/)                                | X     | See folder  |
+| [Estrategias para Aprender en Línea Efectivamente](https://platzi.com/cursos/aprender/)                        | X     | See folder  |
+| [Gestión Efectiva del Tiempo](https://platzi.com/cursos/gestion-tiempo/)                                       | X     | See folder  |
+| [Técnicas de Formación Efectiva](https://platzi.com/cursos/formacion/)                                         | X     | See folder  |
+| [Creación de Portafolio y CV](https://platzi.com/cursos/portafolios/)                                          | X     | See folder  |
+| [Meditaciones para Seguir Aprendiendo](https://platzi.com/cursos/meditacion/)                                  | X     | See folder  |
