@@ -1,12 +1,8 @@
-# 03-intro-pensamiento-computacional
-
-**Prof. David Aroesti**
-
-
-
 ![](https://joseluisramoncolmenares.files.wordpress.com/2020/05/joseluisramon-diploma-python-cs.png)
 
+# Introducción al Pensamiento Computacional con Python
 
+**Prof. David Aroesti**
 
 ## Unidad 2. Introducción a Python
 

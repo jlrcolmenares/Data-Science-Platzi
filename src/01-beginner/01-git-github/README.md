@@ -1,8 +1,8 @@
-# 01-Curso de Git y Guthub
-
 ![](https://joseluisramoncolmenares.files.wordpress.com/2020/05/diploma-git-github.png)
 
+# Profesional de Git y Github
 
+**Prof. Freddy Vega**
 
 ## Configurar Git con Windows Subsystem for Linux
 

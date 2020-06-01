@@ -1,13 +1,18 @@
-# Data-Science-Platzi
-Hi! Welcome to my learning journal. I'm one of the first students of the [Data Science School of Platzi] (https://platzi.com/datos/). The idea with this School is to give to their student all the skills they need to land their first job in the area. Also, the idea is to teach the foundations of computer science, to know how to learn everything you need to learn in this amazing path of becoming a data engineer.
+![](https://static.platzi.com/media/user_upload/OqSOOy58%20%281%29-521b62b0-2b25-4720-9f30-bbb4aeac0430.jpg)
 
-Platzi doesn't give you all the knowledge. They give you the important parts and then invite you to ask questions, to investigate, to seek the answer for yourself. 
+# Data-Science-Platzi
+
+Welcome to my learning journal. I'm one of the first students of the [Data Science School of Platzi](https://platzi.com/datos/). The idea with this School is to give their student all the skills they need to land their first job as Data Scientist. 
+
+Also, the idea is to teach the foundations of Computer Science. Because any person working in this fields needs to know how to learn and adapt the knowledge they have. Never stop learning is part of becoming a Data Professional.
+
+Platzi doesn't give you all the knowledge. They give you the important parts and then invite you to ask questions, to investigate, to seek the answers for yourself. 
 
 ## Overview
 
 My current status today,  *June 1st, 2020* is:
 
-* **Total courses of the Career:** 7/19
+* **Total courses of the Career:** 7/22
 * **Complementary courses:** 15
 
 In this repo you're going to find some of the notes that I took while taking the courses. Most of them are in Spanish (my mother language).  Soon I'm going to translate them to english
@@ -18,17 +23,17 @@ Also, I want to be clear with something: my idea is to share a little bit of wha
 
 ### 1. Beginner Courses
 
-| Course List                                                  | Done? |   Files    |
-| :----------------------------------------------------------- | :---: | :--------: |
-| [Profesional de Git y Github](https://platzi.com/cursos/git-github/) |   X   | See folder |
-| [Introducción a la Terminal y Línea de Comandos](https://platzi.com/cursos/terminal/) |   X   | See folder |
-| [Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/) |   X   | See folder |
-| [POO y Algoritmos con Python](https://platzi.com/cursos/poo-python/) |   X   | See folder |
-| [Programación Dinámica y Estocástica con Python](https://platzi.com/cursos/programacion-estocastica/) |   X   | See folder |
-| [Introducción al Pensamiento Probabilístico](https://platzi.com/cursos/probabilistica/) |   X   | See folder |
-| [Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/) |   X   | See folder |
-| [SQL y MySQL](https://platzi.com/cursos/sql-mysql/)          |   X   | See folder |
-| [SQL en Azure](https://platzi.com/cursos/sql-azure/)         |   X   | See folder |
+| Course List                                                  | Done? |                            Files                             |
+| :----------------------------------------------------------- | :---: | :----------------------------------------------------------: |
+| [Profesional de Git y Github](https://platzi.com/cursos/git-github/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/01-git-github) |
+| [Introducción a la Terminal y Línea de Comandos](https://platzi.com/cursos/terminal/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/02-terminal-cmd) |
+| [Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/03-intro-pensamiento-computacional) |
+| [POO y Algoritmos con Python](https://platzi.com/cursos/poo-python/) |   X   |                          See folder                          |
+| [Programación Dinámica y Estocástica con Python](https://platzi.com/cursos/programacion-estocastica/) |   X   |                          See folder                          |
+| [Introducción al Pensamiento Probabilístico](https://platzi.com/cursos/probabilistica/) |   X   |                          See folder                          |
+| [Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/) |   X   |                          See folder                          |
+| [SQL y MySQL](https://platzi.com/cursos/sql-mysql/)          |   X   |                          See folder                          |
+| [SQL en Azure](https://platzi.com/cursos/sql-azure/)         |   X   |                          See folder                          |
 
 Basic level project: [Add link]
 

@@ -1,10 +1,8 @@
-# 02-Terminal-Línea-de-Comandos
+![](https://joseluisramoncolmenares.files.wordpress.com/2020/05/joseluiramon-diploma-terminal.png)
+
+# Introducción a Terminal y Línea de Comandos (CMD)
 
 **Prof. Mauro Chojrin**
-
-
-
-![](https://joseluisramoncolmenares.files.wordpress.com/2020/05/joseluiramon-diploma-terminal.png)
 
 ## Unidad 2. Manipular Archivos
 
