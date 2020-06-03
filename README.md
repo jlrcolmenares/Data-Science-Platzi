@@ -25,12 +25,12 @@ Also, I want to be clear with something: my idea is to share a little bit of wha
 
 | Course List                                                  | Done? |                            Files                             |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: |
+| [Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/01-intro-pensamiento-computacional) |
+| [POO y Algoritmos con Python](https://platzi.com/cursos/poo-python/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/02-poo-algoritmos) |
+| [Programación Dinámica y Estocástica con Python](https://platzi.com/cursos/programacion-estocastica/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/03-programacion-dinamica) |
+| [Introducción al Pensamiento Probabilístico](https://platzi.com/cursos/probabilistica/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/04-intro-pensamiento-probabilistico) |
 | [Profesional de Git y Github](https://platzi.com/cursos/git-github/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/01-git-github) |
 | [Introducción a la Terminal y Línea de Comandos](https://platzi.com/cursos/terminal/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/02-terminal-cmd) |
-| [Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/03-intro-pensamiento-computacional) |
-| [POO y Algoritmos con Python](https://platzi.com/cursos/poo-python/) |   X   |                          See folder                          |
-| [Programación Dinámica y Estocástica con Python](https://platzi.com/cursos/programacion-estocastica/) |   X   |                          See folder                          |
-| [Introducción al Pensamiento Probabilístico](https://platzi.com/cursos/probabilistica/) |   X   |                          See folder                          |
 | [Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/) |   X   |                          See folder                          |
 | [SQL y MySQL](https://platzi.com/cursos/sql-mysql/)          |   X   |                          See folder                          |
 | [SQL en Azure](https://platzi.com/cursos/sql-azure/)         |   X   |                          See folder                          |

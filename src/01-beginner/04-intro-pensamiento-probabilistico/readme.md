@@ -12,12 +12,10 @@ Cuando tenemos probabilidad condicionales, tenemos que tomar en consideración l
 
 ### Teorema de Bayes
 
-[AGREGAR IMÁGENES DEL TEOREMA DEL AÑO]
+[AGREGAR IMÁGENES DEL TEOREMA DE BAYES]
 
-Recordemos el Teorema de Bayes
-$$
-P(A|B) = \frac{P(A\cap B)}{P(B)} = \frac{P(A).P(B|A)}{P(B)} = \frac{P(A).P(B|A)}{P(A).P(B|A)+P(\urcorner A).P(B|\urcorner A)}
-$$
+
+
 ==Queremos calcular cual es la probabilidad de tener cancer si no tienes síntomas==. La calculamos en Python
 
 ```python
