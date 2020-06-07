@@ -1,6 +1,6 @@
-![](https://static.platzi.com/media/user_upload/OqSOOy58%20%281%29-521b62b0-2b25-4720-9f30-bbb4aeac0430.jpg)
+![](https://static.platzi.com/media/learningpath/badges/1c04abcd-449e-4400-adb2-688a9f39a80b.jpg)
 
-# Data-Science-Platzi
+# Data Science School at Platzi
 
 Welcome to my learning journal. I'm one of the first students of the [Data Science School of Platzi](https://platzi.com/datos/). The idea with this School is to give their student all the skills they need to land their first job as Data Scientist. 
 
@@ -35,7 +35,7 @@ Also, I want to be clear with something: my idea is to share a little bit of wha
 | [SQL y MySQL](https://platzi.com/cursos/sql-mysql/)          |   X   |                          See folder                          |
 | [SQL en Azure](https://platzi.com/cursos/sql-azure/)         |   X   |                          See folder                          |
 
-Basic level project: [Add link]
+Beginner level projects: [Add link]
 
 ### 2. Intermediate Courses
 
@@ -47,7 +47,7 @@ Basic level project: [Add link]
 | [PostgreSQL Aplicado a Ciencia de Datos](https://platzi.com/cursos/postgresql-datos/)                          | -     | See folder  |
 | [Manipulación y Análisis de Datos con Pandas y Python](https://platzi.com/cursos/pandas/)                      | -     | See folder  |
 
-Intermediate level project: [Add link]
+Intermediate level projects: [Add link]
 
 ### 3. Advanced Courses
 
@@ -59,21 +59,20 @@ Intermediate level project: [Add link]
 | [Redes Neuronales en Keras y SciKit Learn](https://platzi.com/cursos/keras-neural-networks/)                   | -     | See folder  |
 | [Fundamentos de Procesamiento de Lenguaje Natural](https://platzi.com/cursos/python-lenguaje-natural/)         | -     | See folder  |
 
-Advanced level project: [Add link]
+Advanced level projects: [Add link]
 
 ### 4. Additional Technical Courses
 
-| Course List                                                                                                    | Done? |    Files    |
-| :------------------------------------------------------------------------------------------------------------- |:-----:|:-----------:|
-| [Fundamentos de Matemáticas](https://platzi.com/cursos/fundamentos-matematicas/)                               | X     | See folder  |
-| [Álgebra](https://platzi.com/cursos/algebra/)                                                                  | X     | See folder  |
-| [Pensamiento Lógico](https://platzi.com/cursos/pensamiento-logico/)                                            | X     | See folder  |
-| [Expresiones Regulares](https://platzi.com/cursos/expresiones-regulares/)                                      | X     | See folder  |
-| [Probabilidad y Estadística](https://platzi.com/cursos/probabilidad-estadistica/)                              | X     | See folder  |
-| [Profesional de Ciencia de Datos](https://platzi.com/cursos/data/)                                             | X     | See folder  |
-| [PostgreSQL](https://platzi.com/cursos/postgresql/)                                                            | X     | See folder  |
-| [Google Data Studio](https://platzi.com/cursos/data-studio/)                                                   | X     | See folder  |
-| [Introducción a Business Intelligence con Power BI](https://platzi.com/cursos/business-intelligence/)          | X     | See folder  |
+| Course List                                                  | Done? |   Files    |
+| :----------------------------------------------------------- | :---: | :--------: |
+| [Álgebra](https://platzi.com/cursos/algebra/)                |   X   | See folder |
+| [Pensamiento Lógico](https://platzi.com/cursos/pensamiento-logico/) |   X   | See folder |
+| [Expresiones Regulares](https://platzi.com/cursos/expresiones-regulares/) |   X   | See folder |
+| [Probabilidad y Estadística](https://platzi.com/cursos/probabilidad-estadistica/) |   X   | See folder |
+| [Profesional de Ciencia de Datos](https://platzi.com/cursos/data/) |   X   | See folder |
+| [PostgreSQL](https://platzi.com/cursos/postgresql/)          |   X   | See folder |
+| [Google Data Studio](https://platzi.com/cursos/data-studio/) |   X   | See folder |
+| [Introducción a Business Intelligence con Power BI](https://platzi.com/cursos/business-intelligence/) |   X   | See folder |
 
 Related projects: [Add link]
 
@@ -88,11 +87,11 @@ Related projects: [Add link]
 | [Creación de Portafolio y CV](https://platzi.com/cursos/portafolios/)                                          | X     | See folder  |
 | [Meditaciones para Seguir Aprendiendo](https://platzi.com/cursos/meditacion/)                                  | X     | See folder  |
 
-Things that I want to share [Add link]
+Things that I want to share: [Add link]
 
 ****
 
-Hope that this help you and give you if you're trying to start your path as Data Scientist. 
+Hope that this help you and guide you if you're trying to start your path as Data Scientist. 
 
 Platzi have a referral program. You click [this link](https://platzi.com/r/joseluisramon/) to get us both a free month. 
 
