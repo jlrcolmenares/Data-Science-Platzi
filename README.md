@@ -1,4 +1,6 @@
-![](https://static.platzi.com/media/learningpath/badges/1c04abcd-449e-4400-adb2-688a9f39a80b.jpg)
+<p align="center">
+  <img src="https://static.platzi.com/media/learningpath/badges/1c04abcd-449e-4400-adb2-688a9f39a80b.jpg">
+</p>
 
 # Data Science School at Platzi
 
@@ -31,9 +33,9 @@ Also, I want to be clear with something: my idea is to share a little bit of wha
 | [Introducción al Pensamiento Probabilístico](https://platzi.com/cursos/probabilistica/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/04-intro-pensamiento-probabilistico) |
 | [Profesional de Git y Github](https://platzi.com/cursos/git-github/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/01-git-github) |
 | [Introducción a la Terminal y Línea de Comandos](https://platzi.com/cursos/terminal/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/02-terminal-cmd) |
-| [Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/) |   X   |                          See folder                          |
-| [SQL y MySQL](https://platzi.com/cursos/sql-mysql/)          |   X   |                          See folder                          |
-| [SQL en Azure](https://platzi.com/cursos/sql-azure/)         |   X   |                          See folder                          |
+| [Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/07-fundamentos-bases-de-datos) |
+| [SQL y MySQL](https://platzi.com/cursos/sql-mysql/)          |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/08-curso-sql-mysql) |
+| [SQL en Azure](https://platzi.com/cursos/sql-azure/)         |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/09-curso-sql-azure) |
 
 Beginner level projects: [Add link]
 
@@ -67,8 +69,8 @@ Advanced level projects: [Add link]
 | :----------------------------------------------------------- | :---: | :--------: |
 | [Álgebra](https://platzi.com/cursos/algebra/)                |   X   | See folder |
 | [Pensamiento Lógico](https://platzi.com/cursos/pensamiento-logico/) |   X   | See folder |
-| [Expresiones Regulares](https://platzi.com/cursos/expresiones-regulares/) |   X   | See folder |
 | [Probabilidad y Estadística](https://platzi.com/cursos/probabilidad-estadistica/) |   X   | See folder |
+| [Expresiones Regulares](https://platzi.com/cursos/expresiones-regulares/) |   X   | See folder |
 | [Profesional de Ciencia de Datos](https://platzi.com/cursos/data/) |   X   | See folder |
 | [PostgreSQL](https://platzi.com/cursos/postgresql/)          |   X   | See folder |
 | [Google Data Studio](https://platzi.com/cursos/data-studio/) |   X   | See folder |
