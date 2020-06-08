@@ -23,35 +23,45 @@ Also, I want to be clear with something: my idea is to share a little bit of wha
 
 ## Career Path
 
-### 1. Beginner Courses
+### 1. Core Courses
 
-| Course List                                                  | Done? |                            Files                             |
-| :----------------------------------------------------------- | :---: | :----------------------------------------------------------: |
-| [Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/01-intro-pensamiento-computacional) |
-| [POO y Algoritmos con Python](https://platzi.com/cursos/poo-python/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/02-poo-algoritmos) |
-| [Programación Dinámica y Estocástica con Python](https://platzi.com/cursos/programacion-estocastica/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/03-programacion-dinamica) |
-| [Introducción al Pensamiento Probabilístico](https://platzi.com/cursos/probabilistica/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/04-intro-pensamiento-probabilistico) |
-| [Profesional de Git y Github](https://platzi.com/cursos/git-github/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/01-git-github) |
-| [Introducción a la Terminal y Línea de Comandos](https://platzi.com/cursos/terminal/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/02-terminal-cmd) |
-| [Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/07-fundamentos-bases-de-datos) |
-| [SQL y MySQL](https://platzi.com/cursos/sql-mysql/)          |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/08-curso-sql-mysql) |
-| [SQL en Azure](https://platzi.com/cursos/sql-azure/)         |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/09-curso-sql-azure) |
+| #    | Course Name                                                  | Done? |                            Files                             |
+| ---- | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: |
+| 1    | [Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/01-intro-pensamiento-computacional) |
+| 2    | [POO y Algoritmos con Python](https://platzi.com/cursos/poo-python/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/02-poo-algoritmos) |
+| 3    | [Programación Dinámica y Estocástica con Python](https://platzi.com/cursos/programacion-estocastica/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/03-programacion-dinamica) |
+| 4    | [Introducción al Pensamiento Probabilístico](https://platzi.com/cursos/probabilistica/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/04-intro-pensamiento-probabilistico) |
+| 5    | [Profesional de Git y Github](https://platzi.com/cursos/git-github/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/01-git-github) |
+| 6    | [Introducción a la Terminal y Línea de Comandos](https://platzi.com/cursos/terminal/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/02-terminal-cmd) |
+| 7    | [Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/07-fundamentos-bases-de-datos) |
+| 8    | [SQL y MySQL](https://platzi.com/cursos/sql-mysql/)          |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/08-curso-sql-mysql) |
+| 9    | [SQL en Azure](https://platzi.com/cursos/sql-azure/)         |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-beginner/09-curso-sql-azure) |
 
-Beginner level projects: [Add link]
+Core level projects: [Add link]
 
-### 2. Intermediate Courses
+### 2. Data Engineer / ETL
 
-| Course List                                                                                                    | Done? |    Files    |
-| :------------------------------------------------------------------------------------------------------------- |:-----:|:-----------:|
-| [Fundamentos de R](https://platzi.com/cursos/fundamentos-r/)                                                   | -     | See folder  |
-| [Fundamentos de Estadística y Análisis de Datos con Python](https://platzi.com/cursos/estadistica-python/)     | -     | See folder  |
-| [Práctico de Regresión Lineal con Python](https://platzi.com/cursos/regresion-python/)                         | -     | See folder  |
-| [PostgreSQL Aplicado a Ciencia de Datos](https://platzi.com/cursos/postgresql-datos/)                          | -     | See folder  |
-| [Manipulación y Análisis de Datos con Pandas y Python](https://platzi.com/cursos/pandas/)                      | -     | See folder  |
+| #    | Course Name                                                  | Done? | Files      |
+| ---- | ------------------------------------------------------------ | :---: | ---------- |
+| 1    | [Ingeniería de Datos con Python](https://platzi.com/cursos/ingenieria-datos/) |   -   | See folder |
+| 2    | [Web Scrapping: Extracción de Datos de la Web](https://platzi.com/cursos/webscraping/) |   -   | See folder |
+| 3    | [Fundamentos de Web Scrapping con Python y Xpath](https://platzi.com/cursos/web-scraping/) |   -   | See folder |
 
-Intermediate level projects: [Add link]
+Data engineering projects: [Add link]
 
-### 3. Advanced Courses
+### 3. Data Scientist
+
+| Course List                                                  | Done? |   Files    |
+| :----------------------------------------------------------- | :---: | :--------: |
+| [Fundamentos de Estadística y Análisis de Datos con Python](https://platzi.com/cursos/estadistica-python/) |   -   | See folder |
+| [Práctico de Regresión Lineal con Python](https://platzi.com/cursos/regresion-python/) |   -   | See folder |
+| [Fundamentos de R](https://platzi.com/cursos/fundamentos-r/) |   -   | See folder |
+| [PostgreSQL Aplicado a Ciencia de Datos](https://platzi.com/cursos/postgresql-datos/) |   -   | See folder |
+| [Manipulación y Análisis de Datos con Pandas y Python](https://platzi.com/cursos/pandas/) |   -   | See folder |
+
+Data Science projects: [Add link]
+
+### 3. Machine Learning Engineer
 
 | Course List                                                                                                    | Done? |    Files    |
 | :------------------------------------------------------------------------------------------------------------- |:-----:|:-----------:|
@@ -61,20 +71,20 @@ Intermediate level projects: [Add link]
 | [Redes Neuronales en Keras y SciKit Learn](https://platzi.com/cursos/keras-neural-networks/)                   | -     | See folder  |
 | [Fundamentos de Procesamiento de Lenguaje Natural](https://platzi.com/cursos/python-lenguaje-natural/)         | -     | See folder  |
 
-Advanced level projects: [Add link]
+Machine Learning projects: [Add link]
 
 ### 4. Additional Technical Courses
 
-| Course List                                                  | Done? |   Files    |
-| :----------------------------------------------------------- | :---: | :--------: |
-| [Álgebra](https://platzi.com/cursos/algebra/)                |   X   | See folder |
-| [Pensamiento Lógico](https://platzi.com/cursos/pensamiento-logico/) |   X   | See folder |
-| [Probabilidad y Estadística](https://platzi.com/cursos/probabilidad-estadistica/) |   X   | See folder |
-| [Expresiones Regulares](https://platzi.com/cursos/expresiones-regulares/) |   X   | See folder |
-| [Profesional de Ciencia de Datos](https://platzi.com/cursos/data/) |   X   | See folder |
-| [PostgreSQL](https://platzi.com/cursos/postgresql/)          |   X   | See folder |
-| [Google Data Studio](https://platzi.com/cursos/data-studio/) |   X   | See folder |
-| [Introducción a Business Intelligence con Power BI](https://platzi.com/cursos/business-intelligence/) |   X   | See folder |
+| Course List                                                  | Done? |                            Files                             |
+| :----------------------------------------------------------- | :---: | :----------------------------------------------------------: |
+| [Álgebra](https://platzi.com/cursos/algebra/)                |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/04-complementary/01-algebra) |
+| [Pensamiento Lógico](https://platzi.com/cursos/pensamiento-logico/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/04-complementary/02-pensamiento-logico) |
+| [Probabilidad y Estadística](https://platzi.com/cursos/probabilidad-estadistica/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/04-complementary/03-probabilidad-estadística) |
+| [Expresiones Regulares](https://platzi.com/cursos/expresiones-regulares/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/04-complementary/04-expresiones-regulares) |
+| [Profesional de Ciencia de Datos](https://platzi.com/cursos/data/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/04-complementary/05-profesional-ciencia-datos) |
+| [PostgreSQL](https://platzi.com/cursos/postgresql/)          |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/04-complementary/06-postgresql) |
+| [Google Data Studio](https://platzi.com/cursos/data-studio/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/04-complementary/07-google-data-studio) |
+| [Introducción a Business Intelligence con Power BI](https://platzi.com/cursos/business-intelligence/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/04-complementary/08-business-inteligence-power-bi) |
 
 Related projects: [Add link]
 
