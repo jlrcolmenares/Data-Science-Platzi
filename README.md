@@ -4,7 +4,7 @@
 
 # Data Science School at Platzi
 
-Welcome to my learning journal. I'm one of the first students of the [Data Science School of Platzi](https://platzi.com/datos/). The idea with this School is to give their student all the skills they need to land their first job as Data Scientist. 
+Welcome to my learning journal. I'm one of the first students of the [Data Science School of Platzi](https://platzi.com/datos/). The idea with this School is to give their students all the skills they need to land their first job as Data Scientist. 
 
 Also, the idea is to teach the foundations of Computer Science. Because any person working in this fields needs to know how to learn and adapt the knowledge they have. Never stop learning is part of becoming a Data Professional.
 
@@ -15,11 +15,11 @@ Platzi doesn't give you all the knowledge. They give you the important parts and
 My current status today,  *June 1st, 2020* is:
 
 * **Total courses of the Career:** 7/22
-* **Complementary courses:** 15
+* **Complementary courses:** 14
 
-In this repo you're going to find some of the notes that I took while taking the courses. Most of them are in Spanish (my mother language).  Soon I'm going to translate them to english
+In this repo you're going to find some of the notes that I took while taking the courses. Most of them are in Spanish (my native language). Soon I'm going to translate them to English.
 
-Also, I want to be clear with something: my idea is to share a little bit of what I'm studying, not to share publicly that Platzi is building for their students. Hope that you could understand. Thank you. 
+Also, I want to be clear with something: my idea is to share a little bit of what I'm studying, not to share publicly what Platzi is building for their students. Hope that you could understand. Thank you. 
 
 ## Career Path
 
@@ -27,7 +27,7 @@ Also, I want to be clear with something: my idea is to share a little bit of wha
 
 | #    | Course Name                                                  | Done? |                            Files                             |
 | ---- | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: |
-| 1    | [Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/) |   X   |                          See folder                          |
+| 1    | [Introducción al Pensamiento Computacional con Python](https://platzi.com/cursos/python-cs/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-core/01-intro-pensamiento-computacional) |
 | 2    | [POO y Algoritmos con Python](https://platzi.com/cursos/poo-python/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-core/02-poo-algoritmos) |
 | 3    | [Programación Dinámica y Estocástica con Python](https://platzi.com/cursos/programacion-estocastica/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-core/03-programacion-dinamica) |
 | 4    | [Introducción al Pensamiento Probabilístico](https://platzi.com/cursos/probabilistica/) |   X   | [See folder](https://github.com/joseluisramon/Data-Science-Platzi/tree/master/src/01-core/04-intro-pensamiento-probabilistico) |
